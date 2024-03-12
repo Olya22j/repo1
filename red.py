@@ -1,1 +1,2 @@
-print (777)
+print (77777)
+print ('hi')
